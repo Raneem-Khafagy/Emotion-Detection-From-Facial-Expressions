@@ -36,7 +36,7 @@ performance of both models was scored using Accuracy and Area under roc curve(AU
 <table align="center"  >
   <tr align="center" >
      <td>model correct prediction for neutral case</td>
-     <td>model correct prediction for benign case</td>
+     <td>model correct prediction for disgust case</td>
      <td>model wrong prediction for happiness case</td>
   </tr>
   <tr align="center" >
